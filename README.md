@@ -1,4 +1,4 @@
-<h2>Programa em Pyton para hábilitar a gerencia em ONUs fiberhome via telnet.<h2>
+<h2>Programa em Pyton para hábilitar a gerencia em ONUs fiberhome via telnet.</h2>
 
 O script acessa a OLT via telnet e executa o comando de gerencia.
 
