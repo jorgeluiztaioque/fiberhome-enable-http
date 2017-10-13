@@ -9,3 +9,7 @@ Para executar o programa:
 ./fiberhome-enable-http.py
 
 É necessario instalar o PEXPECT
+<pre>
+sudo apt-get update
+sudo apt-get install python-pexpect
+</pre>
