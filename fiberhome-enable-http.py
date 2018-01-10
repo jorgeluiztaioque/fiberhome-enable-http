@@ -18,7 +18,7 @@ import sys
 #set onu_local_manage_config slot 01 link 16 onu 9 config_enable_switch enable console_switch enable telnet_switch enable web_switch enable web_port 8080 web_ani_switch enable tel_ani_switch enable
 
 '''
-CONFIGURACOES PADRAO
+CONFIGURACOES DE LOGIN DA OLT (PADRÃO) E PORTA HTTP
 '''
 USER = 'GEPON'
 PASSWORD = 'GEPON'
